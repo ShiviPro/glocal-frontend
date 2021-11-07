@@ -4020,3 +4020,7 @@ body.is-preload #sidebar nav ul li {
 .devpost-logo {
   width: 150px;
 }
+
+a {
+  border-bottom: 0;
+}
